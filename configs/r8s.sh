@@ -7,6 +7,7 @@ python3 ./ImageResources/mkbootimg.py \
   --ramdisk ./ImageResources/ramdisk \
   --dtb "./ImageResources/DTBs/r8s.dtb" \
   --tags_offset 0x00000100 \
+  --second_offset 0xf0000000 \
   --ramdisk_offset 0x01000000 \
   --pagesize 2048 \
   --os_version "13.0.0" \
@@ -22,3 +23,5 @@ python3 ./ImageResources/mkbootimg.py \
 # Compress Boot Image in a tar File for Odin/heimdall Flash
 tar -c boot.img -f Mu-r8s.tar||exit 1
 mv boot.img Mu-r8s.img||exit 1
+
+echo "thx halal-beef :)"
