@@ -257,4 +257,3 @@ if __name__ == "__main__":
     else:
         print("Running stuart_build -c " + SCRIPT_PATH)
         Edk2PlatformBuild().Invoke()
-e()
