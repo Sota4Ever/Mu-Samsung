@@ -1,0 +1,11 @@
+[Defines]
+  DEC_SPECIFICATION                   = 0x00010005
+  PACKAGE_NAME                        = r8s
+  PACKAGE_GUID                        = b92d961d-549d-4ffb-a1ec-06b98e00c939
+  PACKAGE_VERSION                     = 0.1
+
+[Includes.common]
+  Include                               # Root include for the package
+
+[Guids.common]
+  gr8sTokenSpaceGuid                  = { 0xb92d961d, 0x549d, 0x4ffb, { 0xa1, 0xec, 0x06, 0xb9, 0x8e, 0x00, 0xc9, 0x39 } }
