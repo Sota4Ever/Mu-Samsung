@@ -568,9 +568,9 @@
 
 **SoC: Exynos 9830 (E9830)** <br />
 **Codename: r8s** <br />
-**Maintainer: [BotchedRPR](https://github.com/Sota4Ever/)** <br />
+**Maintainer: [Sota4Ever](https://github.com/Sota4Ever/)** <br />
 **Contibuters: [halal-beef](https://github.com/halal-beef/)** <br />
-**Tester: [BotchedRPR](https://github.com/Sota4Ever/)**
+**Tester: [Sota4Ever](https://github.com/Sota4Ever/)**
 
 ### UEFI Status
 
