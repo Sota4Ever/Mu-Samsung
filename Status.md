@@ -561,3 +561,82 @@
 |Vibration||❌|
 
 </td></tr> </table>
+
+## Galaxy S20 FE 
+
+<img align="right" src="https://github.com/Sota4Ever/Mu-Samsung/tree/main/Pictures/Galaxy-S20-FE-4g.png" width="440" alt="Preview">
+
+**SoC: Exynos 9830 (E9830)** <br />
+**Codename: r8s** <br />
+**Maintainer: [BotchedRPR](https://github.com/Sota4Ever/)** <br />
+**Contibuters: [halal-beef](https://github.com/halal-beef/)** <br />
+**Tester: [BotchedRPR](https://github.com/Sota4Ever/)**
+
+### UEFI Status
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Display||✅|
+|Touchscreen||❌|
+|Clocks||❌|
+|UFS||❌|
+|Buttons||✅|
+|USB||❌|
+|SD Card||❌|
+|ACPI||❌|
+
+### OS Status
+
+<table>
+<tr><th>Windows</th><th>Linux</th></tr>
+<tr><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||❌|
+|UFS||❌|
+|Buttons||❌|
+|Sensors||❌|
+|Battery||❌|
+|USB||❌|
+|Charging||❌|
+|WLAN||❌|
+|CPU||❌|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Audio||❌|
+|GPU||❌|
+|Camera||❌|
+|NFC||❌|
+|Fingerprint||❌|
+|Mobile Data||❌|
+|Display||❌|
+|Vibration||❌|
+
+</td><td>
+
+|Feature|Description|State|
+|:------|:----------|:---:|
+|Boot||❌|
+|UFS||❌|
+|Buttons||❌|
+|Sensors||❌|
+|Battery||❌|
+|USB||❌|
+|Charging||❌|
+|WLAN||❌|
+|CPU||❌|
+|Touchscreen||❌|
+|Bluetooth||❌|
+|GPS||❌|
+|Audio||❌|
+|GPU||❌|
+|Camera||❌|
+|NFC||❌|
+|Fingerprint||❌|
+|Mobile Data||❌|
+|Display||❌|
+|Vibration||❌|
+
+</td></tr> </table>
