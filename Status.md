@@ -564,7 +564,7 @@
 
 ## Galaxy S20 FE 
 
-<img align="right" src="https://github.com/Sota4Ever/Mu-Samsung/blob/main/Pictures/Galaxy-S20-FE-4g.png" width="440" alt="Preview">
+<img align="right" src="https://github.com/Sota4Ever/Mu-Samsung/blob/main/Pictures/Galaxy-S20-FE-4g.png" width="432" alt="Preview">
 
 **SoC: Exynos 9830 (E9830)** <br />
 **Codename: r8s** <br />
